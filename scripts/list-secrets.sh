@@ -1,0 +1,2 @@
+aws secretsmanager \
+    list-secrets

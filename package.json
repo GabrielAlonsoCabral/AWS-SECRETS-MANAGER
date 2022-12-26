@@ -1,0 +1,14 @@
+{
+  "name": "secrets-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.238.0"
+  },
+  "scripts": {
+    "aws:create:secret":"bash scripts/create-secret.sh ENV",
+    "generate:env":"node scripts/generate-env.js ENV",
+    "update:env":"node scripts/update-env.js ENV"
+  }
+}
