@@ -7,7 +7,7 @@
 # clone this repository
 $ git clone https://github.com/GabrielAlonsoCabral/AWS-SECRETS-MANAGER.git
 
-# Feel free to replace yarn by another such as npm. 
+# Feel free to use npm or another. 
 $ yarn
 ```
 
@@ -15,7 +15,6 @@ $ yarn
 
 ```
 # This script will deploy your env.json as your new aws secret.
- 
 $ yarn aws:create:secret
 ```
 
