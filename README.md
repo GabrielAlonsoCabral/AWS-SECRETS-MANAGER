@@ -1,6 +1,10 @@
 # SECRETS MANAGER
   AWS Secrets Manager helps you manage, retrieve, and rotate database credentials, API keys, and other secrets throughout their lifecycles.
 
+
+  Developed by: <a href="https://www.github.com/gabrielAlonsoCabral">@GabrielAlonsoCabral</a>  
+  <br/>
+  
 ## INSTALLATION
 
 ```
